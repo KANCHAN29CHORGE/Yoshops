@@ -1,5 +1,5 @@
-# Yoshops.com
-Yoshops.com is a E-commerce ecosystem provide Education, Finance, Food, Health, Ecommerce, Staffing that creates life-changing experiences for buyers and sellers.
+# Yoshops
+Yoshops is a E-commerce ecosystem provide Education, Finance, Food, Health, Ecommerce, Staffing that creates life-changing experiences for buyers and sellers.
 I have joined this organization as Data Analyst Intern.
 My First project is to analyze survey data.
 
